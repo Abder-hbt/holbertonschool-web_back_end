@@ -11,7 +11,7 @@
     "typescript-eslint": "^8.29.0"
   },
   "scripts": {
-    "dev": "node 0-main.js",
+    "dev": "node 1-main.js",
     "lint": "eslint ."
   }
 }
